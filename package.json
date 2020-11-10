@@ -1,13 +1,13 @@
 {
-    "name": "minimal-theme-vscode",
-    "displayName": "minimal",
-    "description": "Minimal theme to get things done",
-    "publisher": "dawranliou",
+    "name": "minimal-monochrome-orange-theme-vscode",
+    "displayName": "mIRC-2003",
+    "description": "Orange-grey monochrome minimal theme inspired by my mIRC config from 2003",
+    "publisher": "cognivore",
     "version": "0.1.1",
     "icon": "logo.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/dawran6/minimal-theme-vscode/"
+        "url": "https://github.com/cognivore/minimal-theme-vscode/"
     },
     "engines": {
         "vscode": "^1.39.0"
@@ -18,7 +18,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Minimal",
+                "label": "mIRC 2003",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Minimal-color-theme.json"
             }

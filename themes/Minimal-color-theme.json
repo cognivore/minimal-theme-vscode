@@ -1,9 +1,9 @@
 {
-	"name": "Minimal",
+	"name": "mIRC 2003",
 	"type": "dark",
 	"colors": {
-		"editor.background": "#111111",
-		"editor.foreground": "#e5e5e5",
+		"editor.background": "#333",
+		"editor.foreground": "#dd7d2a",
 		"activityBarBadge.background": "#555555",
 		"sideBarTitle.foreground": "#e5e5e5"
 	},
@@ -14,8 +14,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#616161"
+				"foreground": "#535353"
 			}
 		},
 		{
@@ -24,7 +23,7 @@
 				"string"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#ff8f3a"
 			}
 		}
 	]
