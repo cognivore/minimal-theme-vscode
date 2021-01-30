@@ -1,13 +1,13 @@
 {
-    "name": "minimal-monochrome-orange-theme-vscode",
+    "name": "minimal-monochrome-dantos-theme-vscode",
     "displayName": "mIRC-2003",
-    "description": "Orange-grey monochrome minimal theme inspired by my mIRC config from 2003",
+    "description": "A minimal monochrome Dracula flavour",
     "publisher": "cognivore",
     "version": "0.1.1",
     "icon": "logo.png",
     "repository": {
         "type": "git",
-        "url": "https://github.com/cognivore/minimal-theme-vscode/"
+        "url": "https://whatwedointheshadows.fandom.com/wiki/Dantos"
     },
     "engines": {
         "vscode": "^1.39.0"
@@ -18,7 +18,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "mIRC 2003",
+                "label": "Dantos Monochrome",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Minimal-color-theme.json"
             }

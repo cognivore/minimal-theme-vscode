@@ -1,16 +1,25 @@
 # Minimal
 
 Minimal is the minimal theme to get things done.
-
-![screenshot](screenshot.png)
+This version of minimal is based on Dracula theme.
 
 ## Additional configuration 
 
-For maximum degeneracy, add this to your `settings.json`:
+I like the following coloured brackets configuration with this theme:
 
 ```
-    "editor.fontFamily": "Perfect DOS VGA 437 Win",
-    "editor.fontSize": 16,
+    "bracketPairColorizer.consecutivePairColors": [
+        "()",
+        "[]",
+        "{}",
+        [
+            "#f1fa8c",
+            "#ffb86c",
+            "#ff79c6",
+            "#8be9fd",
+        ],
+        "Red"
+    ]
 ```
 
 [Perfect DOS VGA 437](https://www.dafont.com/perfect-dos-vga-437.font) font
