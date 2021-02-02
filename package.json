@@ -1,13 +1,13 @@
 {
-    "name": "minimal-monochrome-dantos-theme-vscode",
-    "displayName": "mIRC-2003",
-    "description": "A minimal monochrome Dracula flavour",
+    "name": "minimal-monochrome-hackerman-theme-vscode",
+    "displayName": "hackerman-monochrome",
+    "description": "A minimal monochrome theme for real hackers",
     "publisher": "cognivore",
     "version": "0.1.1",
     "icon": "logo.png",
     "repository": {
         "type": "git",
-        "url": "https://whatwedointheshadows.fandom.com/wiki/Dantos"
+        "url": "https://knowyourmeme.com/memes/hackerman"
     },
     "engines": {
         "vscode": "^1.39.0"
@@ -18,7 +18,7 @@
     "contributes": {
         "themes": [
             {
-                "label": "Dantos Monochrome",
+                "label": "Hackerman Monochrome",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Minimal-color-theme.json"
             }

@@ -1,10 +1,10 @@
 {
-	"name": "dantos",
+	"name": "hackerman",
 	"type": "dark",
 	"colors": {
 		// The theme itself
-		"editor.background": "#282a36",
-		"editor.foreground": "#f8f8f2",
+		"editor.background": "#000",
+		"editor.foreground": "#00ff00",
 		"activityBarBadge.background": "#555555",
 		"sideBarTitle.foreground": "#e5e5e5",
 		// Tabs
@@ -12,36 +12,36 @@
 		"tab.unfocusedActiveForeground": "#fff",
 		"tab.inactiveForeground": "#9c9c9c",
 		"tab.unfocusedInactiveForeground": "#9c9c9c",
-		"tab.activeBackground": "#282a36",
-		"tab.unfocusedActiveBorder": "#1d1f26",
-		"tab.inactiveBackground": "#1d1f26",
-		"tab.activeBorder": "#1d1f26",
-		"tab.border": "#1d1f26",
-		"editorGroupHeader.tabsBorder": "#1d1f26",
+		"tab.activeBackground": "#000",
+		"tab.unfocusedActiveBorder": "#111",
+		"tab.inactiveBackground": "#272727",
+		"tab.activeBorder": "#111",
+		"tab.border": "#111",
+		"editorGroupHeader.tabsBorder": "#111",
 		// Title bar (requires "window.titleBarStyle": "custom" in settings)
-		"titleBar.activeBackground": "#1d1f26",
-		"titleBar.inactiveBackground": "#1d1f26",
-		"titleBar.border": "#1d1f26",
+		"titleBar.activeBackground": "#111",
+		"titleBar.inactiveBackground": "#111",
+		"titleBar.border": "#111",
 		"titleBar.activeForeground": "#ccc",
 		"titleBar.inactiveForeground": "#ccc",
 		// Scrollbar
-		"scrollbarSlider.background": "#fff2",
-		"scrollbarSlider.hoverBackground": "#fff3",
-		"scrollbarSlider.activeBackground": "#fff4",
+		"scrollbarSlider.background": "#9992",
+		"scrollbarSlider.hoverBackground": "#9993",
+		"scrollbarSlider.activeBackground": "#9994",
 		// Backgrounds
-		"statusBar.background": "#1d1f26",
-		"statusBar.noFolderBackground": "#1d1f26",
-		"editorGroup.emptyBackground": "#1d1f26",
-		"editorGroup.dropBackground": "#1d1f26",
-		"editorGroupHeader.noTabsBackground": "#1d1f26",
-		"editorGroupHeader.tabsBackground": "#1d1f26",
-		"activityBar.background": "#1d1f26",
+		"statusBar.background": "#111",
+		"statusBar.noFolderBackground": "#111",
+		"editorGroup.emptyBackground": "#111",
+		"editorGroup.dropBackground": "#111",
+		"editorGroupHeader.noTabsBackground": "#111",
+		"editorGroupHeader.tabsBackground": "#111",
+		"activityBar.background": "#111",
 		// Misc
 		"statusBar.foreground": "#ccc",
-		"sideBar.background": "#1d1f26",
+		"sideBar.background": "#000001",
 		"sideBar.border": "#222",
 		"editorRuler.foreground": "#222",
-		"editorGroup.border": "#1d1f26",
+		"editorGroup.border": "#111",
 	},
 	"tokenColors": [
 		{
@@ -51,7 +51,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"foreground": "#6272a4"
+				"foreground": "#006900"
 			}
 		},
 		{
@@ -60,7 +60,7 @@
 				"string"
 			],
 			"settings": {
-				"foreground": "#f0f0ff"
+				"foreground": "#00ff69"
 			}
 		}
 	]
